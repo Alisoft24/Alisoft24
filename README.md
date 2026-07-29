@@ -2,45 +2,6 @@
 
 <div align="center">
 
-<div align="center">
-
-<!-- Animated Header with Gradient & Glow Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00d4ff,70:7b2ff7,100:0d1117&height=250&section=header&text=Welcome%20to%20Alisoft24&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=%F0%9F%9A%80%20Web%20%26%20Android%20Developer%20%7C%20Digital%20Solutions%20Expert&descSize=20&descAlignY=60&descColor=f0f0f0" />
-
-<!-- Welcome Emoji & Typing Animation -->
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=60&lines=👋+Hello!+I'm+Alisoft24;💻+Full+Stack+Web+Developer;📱+Android+App+Creator;🎨+UI%2FUX+Designer;🚀+Digital+Solutions+Expert" alt="Typing SVG" />
-    </td>
-  </tr>
-</table>
-
-<!-- Decorative Animated Badges -->
-<table>
-  <tr>
-    <td align="center" style="padding: 5px;">
-      <img src="https://img.shields.io/badge/🌟-Building%20Digital%20Experiences-00d4ff?style=for-the-badge&labelColor=0d1117" />
-    </td>
-    <td align="center" style="padding: 5px;">
-      <img src="https://img.shields.io/badge/💡-Innovation%20Driven-7b2ff7?style=for-the-badge&labelColor=0d1117" />
-    </td>
-    <td align="center" style="padding: 5px;">
-      <img src="https://img.shields.io/badge/🤝-Let's%20Connect!-00d4ff?style=for-the-badge&labelColor=0d1117" />
-    </td>
-  </tr>
-</table>
-
-<!-- Profile Views with Decorative Border -->
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Alisoft24&label=👀%20Profile%20Views&color=00d4ff&style=for-the-badge" />
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-</div>
-
-<br/>
 
 <!-- Animated Header - FIXED -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=200&section=header&text=Alisoft24&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20and%20Android%20Developer&descSize=18&descAlignY=58&descColor=cccccc" />
