@@ -1,85 +1,57 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🎨 ALISOFT24 - PROFESSIONAL GITHUB PROFILE README                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<!-- ▄▀▄▀▄▀▄▀▄▀▄▀▄ ANIMATED HEADER ▄▀▄▀▄▀▄▀▄▀▄▀▄ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:1a1a4e,50:00b4d8,75:7209b7,100:0a0e27&height=250&section=header&text=ALISOFT24&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=✦%20Full%20Stack%20Developer%20%7C%20Android%20Expert%20%7C%20Digital%20Architect%20✦&descSize=18&descAlignY=55&descColor=00b4d8" />
-</div>
 
-<!-- ▄▀▄▀▄▀▄▀▄▀▄▀▄ ANIMATED TYPING ▄▀▄▀▄▀▄▀▄▀▄▀▄ -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00B4D8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%E2%9C%A8+Crafting+Digital+Experiences+Since+2020;%F0%9F%9A%80+Web+Apps+%E2%80%A2+Android+Apps+%E2%80%A2+SaaS+Solutions;%F0%9F%92%A1+Turning+Your+Vision+Into+Reality" alt="Typing SVG" />
-  </a>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=Alisoft24&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20Web%20%26%20Android%20Developer%20|%20Digital%20Solutions%20Expert&descSize=20&descAlignY=55&descColor=ffffff" />
+
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+Alisoft24+%F0%9F%91%8B;Building+Digital+Experiences+That+Matter;Web+%7C+Android+%7C+UI%2FUX+%7C+Full+Stack" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Social Badges -->
+<img src="https://komarev.com/ghpvc/?username=Alisoft24&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/Alisoft24?tab=followers">
+  <img src="https://img.shields.io/github/followers/Alisoft24?label=Followers&style=for-the-badge&color=7b2ff7&labelColor=0d1117" />
+</a>
+<a href="https://github.com/Alisoft24?tab=repositories">
+  <img src="https://img.shields.io/badge/Repos-Check%20Them%20Out-00d4ff?style=for-the-badge&labelColor=0d1117" />
+</a>
+
 </div>
 
 <br/>
 
-<!-- ▄▀▄▀▄▀▄▀▄▀▄▀▄ BADGES ROW ▄▀▄▀▄▀▄▀▄▀▄▀▄ -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alisoft24&label=PROFILE+VIEWS&color=00b4d8&style=for-the-badge&labelColor=0a0e27" />
-  &nbsp;
-  <a href="https://github.com/Alisoft24?tab=followers">
-    <img src="https://img.shields.io/github/followers/Alisoft24?label=FOLLOWERS&style=for-the-badge&color=7209b7&labelColor=0a0e27&logo=github" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Alisoft24?tab=stars">
-    <img src="https://img.shields.io/github/stars/Alisoft24?label=TOTAL+STARS&style=for-the-badge&color=f72585&labelColor=0a0e27&logo=github" />
-  </a>
-  &nbsp;
-  <a href="https://alisoft24.com">
-    <img src="https://img.shields.io/badge/WEBSITE-LIVE-00b4d8?style=for-the-badge&labelColor=0a0e27&logo=google-chrome&logoColor=00b4d8" />
-  </a>
-</div>
-
-<br/>
-
-<!-- ▄▀▄▀▄▀▄▀▄▀▄▀▄ DIVIDER ▄▀▄▀▄▀▄▀▄▀▄▀▄ -->
+<!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
+<!-- About Me Section -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 👨‍💻 ABOUT ME SECTION                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535933524c414f4f/ke17teleQBRdDXPAQr3d7sg.gif" />
 
-<h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  &nbsp;About Me — The Developer Behind Alisoft24
-</h2>
+```yaml
+name: Alisoft24
+located_in: 🌍 Your Location
+current_job: Full Stack Web & Android Developer
+company: Alisoft24 - Digital Solutions
 
-<table>
-<tr>
-<td width="55%" valign="top">
+education:
+  [
+    "Self-Taught Developer",
+    "Continuous Learner",
+  ]
 
-🎯 I'm **Ali**, a passionate **Full Stack Web & Android Developer** building digital solutions that drive real results for businesses worldwide.
+fields_of_interests:
+  [
+    "Web Development",
+    "Android Development",
+    "UI/UX Design",
+    "Cloud Services",
+    "Digital Marketing",
+  ]
 
-With **4+ years** of hands-on experience, I specialize in creating **high-performance websites**, **native & cross-platform mobile apps**, and **scalable SaaS products** that users love.
-
-```javascript
-const alisoft24 = {
-    pronouns: "He" | "Him",
-    location: "🌍 Available Worldwide (Remote)",
-    code: ["JavaScript", "TypeScript", "Python",
-           "PHP", "Kotlin", "Dart", "Java"],
-    askMeAbout: ["Web Dev", "Android Dev",
-                 "UI/UX", "Tech Consulting"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue.js"],
-            css: ["Tailwind", "Bootstrap", "SCSS"],
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            php: ["Laravel", "CodeIgniter"],
-            python: ["Django", "FastAPI"],
-        },
-        mobile: ["Flutter", "Kotlin", "React Native"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL",
-                    "Firebase", "Redis"],
-        cloud: ["AWS", "GCP", "Vercel", "DigitalOcean"],
-    },
-    currentFocus: "Building SaaS Products & Open Source",
-    funFact: "I debug in my dreams 🛌💻"
-};
+currently_learning: ["Advanced React", "Flutter", "Cloud Architecture"]
+2024_goals: ["Contribute to Open Source", "Launch SaaS Products"]
+hobbies: ["Coding", "Problem Solving", "Tech Exploration"]
