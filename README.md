@@ -94,7 +94,9 @@ I work with modern web and mobile technologies to turn ideas into real solutions
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alisoft24&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false" />
+<img width="48%" src="https://github-readme-stats-umber-ten.vercel.app/api?username=Alisoft24&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false" />
+
+<!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alisoft24&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false" /> -->
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alisoft24&theme=tokyonight&background=0d1117&border=30363d&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
 
 <br/><br/>
