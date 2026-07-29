@@ -93,23 +93,25 @@ I work with modern web and mobile technologies to turn ideas into real solutions
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<!-- Stats Card - Using Reliable Public Instance -->
-<img width="48%" src="https://github-readme-stats-git-master-anurag-hazras-projects.vercel.app/api?username=Alisoft24&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false" />
+<!-- Custom Stats Card with Gradient -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alisoft24&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff6b6b&icon_color=ffd93d&text_color=ffffff&border_color=ff6b6b&border_radius=15&custom_title=🚀%20My%20GitHub%20Journey" />
 
-<!-- Streak Stats - Always Working -->
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alisoft24&theme=tokyonight&background=0d1117&border=30363d&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
-
-<br/><br/>
-
-<!-- Top Languages - Using Reliable Public Instance -->
-<img width="40%" src="https://github-readme-stats-git-master-anurag-hazras-projects.vercel.app/api/top-langs/?username=Alisoft24&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=00d4ff&text_color=c9d1d9" />
+<!-- Custom Streak Stats -->
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alisoft24&theme=radical&background=0d1117&border=ff6b6b&ring=ff6b6b&fire=ffd93d&currStreakLabel=ffd93d&sideLabels=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-<!-- Activity Graph - Working -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alisoft24&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=7b2ff7&hide_border=true" />
+<!-- Custom Top Languages -->
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisoft24&layout=pie&theme=radical&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&border_color=ff6b6b&border_radius=15" />
+
+<br/><br/>
+
+<!-- Contribution Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alisoft24&bg_color=0d1117&color=ff6b6b&line=ffd93d&point=ff6b6b&area=true&area_color=ff6b6b&hide_border=true" />
 
 </div>
 ---
