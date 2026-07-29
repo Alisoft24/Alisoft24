@@ -11,7 +11,7 @@
 </a>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Alisoft24&label=Profile%20Views&color=00d4ff&style=flat-square" alt="Profile Views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=Alisoft24&label=Profile%20Views&color=00d4ff&style=flat-square" alt="Profile Views" /> -->
 
 </div>
 
