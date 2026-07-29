@@ -90,20 +90,21 @@ I work with modern web and mobile technologies to turn ideas into real solutions
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Stats Card - GitHub Native -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alisoft24&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false" onerror="this.onerror=null;this.src='https://github-readme-stats-2.vercel.app/api?username=Alisoft24&show_icons=true&theme=tokyonight'" />
+<!-- Stats Card - Using Reliable Public Instance -->
+<img width="48%" src="https://github-readme-stats-git-master-anurag-hazras-projects.vercel.app/api?username=Alisoft24&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false" />
 
 <!-- Streak Stats - Always Working -->
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alisoft24&theme=tokyonight&background=0d1117&border=30363d&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
 
 <br/><br/>
 
-<!-- Top Languages - GitHub Native -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisoft24&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=00d4ff&text_color=c9d1d9" onerror="this.onerror=null;this.src='https://github-readme-stats-2.vercel.app/api/top-langs/?username=Alisoft24&layout=compact&theme=tokyonight'" />
+<!-- Top Languages - Using Reliable Public Instance -->
+<img width="40%" src="https://github-readme-stats-git-master-anurag-hazras-projects.vercel.app/api/top-langs/?username=Alisoft24&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=00d4ff&text_color=c9d1d9" />
 
 <br/><br/>
 
@@ -111,7 +112,6 @@ I work with modern web and mobile technologies to turn ideas into real solutions
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alisoft24&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=7b2ff7&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
