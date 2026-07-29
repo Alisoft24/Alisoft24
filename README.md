@@ -93,11 +93,9 @@ I work with modern web and mobile technologies to turn ideas into real solutions
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<!-- Custom Stats Card with Gradient -->
+<!-- Custom Stats Card with Premium Theme -->
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alisoft24&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff6b6b&icon_color=ffd93d&text_color=ffffff&border_color=ff6b6b&border_radius=15&custom_title=🚀%20My%20GitHub%20Journey" />
 
 <!-- Custom Streak Stats -->
@@ -105,12 +103,12 @@ I work with modern web and mobile technologies to turn ideas into real solutions
 
 <br/><br/>
 
-<!-- Custom Top Languages -->
+<!-- Custom Top Languages with Pie Chart -->
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisoft24&layout=pie&theme=radical&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&border_color=ff6b6b&border_radius=15" />
 
 <br/><br/>
 
-<!-- Contribution Graph -->
+<!-- Activity Graph -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alisoft24&bg_color=0d1117&color=ff6b6b&line=ffd93d&point=ff6b6b&area=true&area_color=ff6b6b&hide_border=true" />
 
 </div>
